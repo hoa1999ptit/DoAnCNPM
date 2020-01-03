@@ -1,0 +1,205 @@
+C:\Users\DELL\Desktop\New folder\doan_cnpm\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\DELL\Desktop\New folder\doan_cnpm\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\DELL\Desktop\New folder\doan_cnpm\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\DELL\Desktop\New folder\doan_cnpm\bin\Debug\netcoreapp2.1\doan_cnpm.deps.json
+C:\Users\DELL\Desktop\New folder\doan_cnpm\bin\Debug\netcoreapp2.1\doan_cnpm.runtimeconfig.json
+C:\Users\DELL\Desktop\New folder\doan_cnpm\bin\Debug\netcoreapp2.1\doan_cnpm.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\New folder\doan_cnpm\bin\Debug\netcoreapp2.1\doan_cnpm.dll
+C:\Users\DELL\Desktop\New folder\doan_cnpm\obj\Debug\netcoreapp2.1\doan_cnpm.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\New folder\doan_cnpm\obj\Debug\netcoreapp2.1\doan_cnpm.RazorAssemblyInfo.cache
+C:\Users\DELL\Desktop\New folder\doan_cnpm\obj\Debug\netcoreapp2.1\doan_cnpm.RazorAssemblyInfo.cs
+C:\Users\DELL\Desktop\New folder\doan_cnpm\obj\Debug\netcoreapp2.1\doan_cnpm.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\New folder\doan_cnpm\obj\Debug\netcoreapp2.1\doan_cnpm.AssemblyInfo.cs
+C:\Users\DELL\Desktop\New folder\doan_cnpm\obj\Debug\netcoreapp2.1\doan_cnpm.TagHelpers.input.cache
+C:\Users\DELL\Desktop\New folder\doan_cnpm\obj\Debug\netcoreapp2.1\doan_cnpm.TagHelpers.output.cache
+C:\Users\DELL\Desktop\New folder\doan_cnpm\obj\Debug\netcoreapp2.1\doan_cnpm.RazorCoreGenerate.cache
+C:\Users\DELL\Desktop\New folder\doan_cnpm\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\DELL\Desktop\New folder\doan_cnpm\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\DELL\Desktop\New folder\doan_cnpm\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\DELL\Desktop\New folder\doan_cnpm\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\DELL\Desktop\New folder\doan_cnpm\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\DELL\Desktop\New folder\doan_cnpm\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\DELL\Desktop\New folder\doan_cnpm\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\DELL\Desktop\New folder\doan_cnpm\obj\Debug\netcoreapp2.1\doan_cnpm.RazorTargetAssemblyInfo.cache
+C:\Users\DELL\Desktop\New folder\doan_cnpm\obj\Debug\netcoreapp2.1\doan_cnpm.RazorTargetAssemblyInfo.cs
+C:\Users\DELL\Desktop\New folder\doan_cnpm\bin\Debug\netcoreapp2.1\doan_cnpm.pdb
+C:\Users\DELL\Desktop\New folder\doan_cnpm\bin\Debug\netcoreapp2.1\doan_cnpm.Views.dll
+C:\Users\DELL\Desktop\New folder\doan_cnpm\bin\Debug\netcoreapp2.1\doan_cnpm.Views.pdb
+C:\Users\DELL\Desktop\New folder\doan_cnpm\obj\Debug\netcoreapp2.1\doan_cnpm.Views.pdb
+C:\Users\DELL\Desktop\New folder\doan_cnpm\obj\Debug\netcoreapp2.1\doan_cnpm.dll
+C:\Users\DELL\Desktop\New folder\doan_cnpm\obj\Debug\netcoreapp2.1\doan_cnpm.pdb
+C:\Users\DELL\Desktop\New folder\doan_cnpm\obj\Debug\netcoreapp2.1\doan_cnpm.csproj.CopyComplete
+C:\Users\DELL\Desktop\New folder\doan_cnpm\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_TableButtonPartial.cshtml.g.cs
+C:\Users\DELL\Desktop\New folder\doan_cnpm\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+C:\Users\DELL\Desktop\New folder\doan_cnpm\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+C:\Users\DELL\Desktop\New folder\doan_cnpm\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\DELL\Desktop\New folder\doan_cnpm\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
+C:\Users\DELL\Desktop\New folder\doan_cnpm\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ProductType\Index.cshtml.g.cs
+C:\Users\DELL\Desktop\New folder\doan_cnpm\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ProductType\Create.cshtml.g.cs
+C:\Users\DELL\Desktop\New folder\doan_cnpm\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ProductType\Edit.cshtml.g.cs
+C:\Users\DELL\Desktop\New folder\doan_cnpm\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ProductType\Details.cshtml.g.cs
+C:\Users\DELL\Desktop\New folder\doan_cnpm\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ProductType\Delete.cshtml.g.cs
+C:\Users\DELL\Desktop\New folder\doan_cnpm\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Product\Index.cshtml.g.cs
+C:\Users\DELL\Desktop\New folder\doan_cnpm\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Product\Create.cshtml.g.cs
+C:\Users\DELL\Desktop\New folder\doan_cnpm\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Product\Edit.cshtml.g.cs
+C:\Users\DELL\Desktop\New folder\doan_cnpm\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Product\Details.cshtml.g.cs
+C:\Users\DELL\Desktop\New folder\doan_cnpm\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Product\Delete.cshtml.g.cs
+C:\Users\DELL\Desktop\New folder\doan_cnpm\obj\Debug\netcoreapp2.1\Razor\Areas\Customer\Views\_ViewImports.cshtml.g.cs
+C:\Users\DELL\Desktop\New folder\doan_cnpm\obj\Debug\netcoreapp2.1\Razor\Areas\Customer\Views\_ViewStart.cshtml.g.cs
+C:\Users\DELL\Desktop\New folder\doan_cnpm\obj\Debug\netcoreapp2.1\Razor\Areas\Customer\Views\Shared\_LayoutHomePage.cshtml.g.cs
+C:\Users\DELL\Desktop\New folder\doan_cnpm\obj\Debug\netcoreapp2.1\Razor\Areas\Customer\Views\HomePages\Index.cshtml.g.cs
+C:\Users\DELL\Desktop\New folder\doan_cnpm\obj\Debug\netcoreapp2.1\Razor\Areas\Customer\Views\Shop\Index.cshtml.g.cs
+C:\Users\DELL\Desktop\New folder\doan_cnpm\obj\Debug\netcoreapp2.1\Razor\Areas\Customer\Views\Shop\Details.cshtml.g.cs
+C:\Users\DELL\Desktop\New folder\doan_cnpm\obj\Debug\netcoreapp2.1\Razor\Areas\Customer\Views\ShoppingCart\Index.cshtml.g.cs
+C:\Users\DELL\Desktop\New folder\doan_cnpm\obj\Debug\netcoreapp2.1\Razor\Areas\Customer\Views\Shared\_AppointmentProductDetails.cshtml.g.cs
+C:\Users\DELL\Desktop\New folder\doan_cnpm\obj\Debug\netcoreapp2.1\Razor\Areas\Customer\Views\Shared\_AppointmentCustomerDetails.cshtml.g.cs
+C:\Users\DELL\Desktop\New folder\doan_cnpm\obj\Debug\netcoreapp2.1\Razor\Areas\Customer\Views\ShoppingCart\AppointmentConfirmation.cshtml.g.cs
+C:\Users\DELL\Desktop\New folder\doan_cnpm\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+C:\Users\DELL\Desktop\New folder\doan_cnpm\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+C:\Users\DELL\Desktop\New folder\doan_cnpm\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+C:\Users\DELL\Desktop\New folder\doan_cnpm\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+C:\Users\DELL\Desktop\New folder\doan_cnpm\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+C:\Users\DELL\Desktop\New folder\doan_cnpm\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+C:\Users\DELL\Desktop\New folder\doan_cnpm\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\DELL\Desktop\New folder\doan_cnpm\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+C:\Users\DELL\Desktop\New folder\doan_cnpm\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+C:\Users\DELL\Desktop\New folder\doan_cnpm\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Users\DELL\Desktop\New folder\doan_cnpm\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+C:\Users\DELL\Desktop\New folder\doan_cnpm\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+C:\Users\DELL\Desktop\New folder\doan_cnpm\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+C:\Users\DELL\Desktop\New folder\doan_cnpm\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+C:\Users\DELL\Desktop\New folder\doan_cnpm\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+C:\Users\DELL\Desktop\New folder\doan_cnpm\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+C:\Users\DELL\Desktop\New folder\doan_cnpm\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+C:\Users\DELL\Desktop\New folder\doan_cnpm\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+C:\Users\DELL\Desktop\New folder\doan_cnpm\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+C:\Users\DELL\Desktop\New folder\doan_cnpm\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+C:\Users\DELL\Desktop\New folder\doan_cnpm\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+C:\Users\DELL\Desktop\New folder\doan_cnpm\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+C:\Users\DELL\Desktop\New folder\doan_cnpm\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+C:\Users\DELL\Desktop\New folder\doan_cnpm\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+C:\Users\DELL\Desktop\New folder\doan_cnpm\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+C:\Users\DELL\Desktop\New folder\doan_cnpm\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+C:\Users\DELL\Desktop\New folder\doan_cnpm\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\DELL\Desktop\New folder\doan_cnpm\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+C:\Users\DELL\Desktop\New folder\doan_cnpm\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+C:\Users\DELL\Desktop\New folder\doan_cnpm\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\DELL\Desktop\New folder\doan_cnpm\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+C:\Users\DELL\Desktop\New folder\doan_cnpm\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\DELL\Desktop\New folder\doan_cnpm\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\DELL\Desktop\New folder\doan_cnpm\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\DELL\Desktop\New folder\doan_cnpm\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\AdminUsers\Delete.cshtml.g.cs
+C:\Users\DELL\Desktop\New folder\doan_cnpm\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\AdminUsers\Edit.cshtml.g.cs
+C:\Users\DELL\Desktop\New folder\doan_cnpm\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\AdminUsers\Index.cshtml.g.cs
+C:\Users\DELL\Desktop\New folder\doan_cnpm\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\UserName\Default.cshtml.g.cs
+C:\Users\DELL\Desktop\New folder\doan_cnpm\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Appointments\Index.cshtml.g.cs
+C:\Users\DELL\Desktop\New folder\doan_cnpm\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Appointments\Edit.cshtml.g.cs
+C:\Users\DELL\Desktop\New folder\doan_cnpm\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Shared\_productDetails.cshtml.g.cs
+C:\Users\DELL\Desktop\New folder\doan_cnpm\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Appointments\Details.cshtml.g.cs
+C:\Users\DELL\Desktop\New folder\doan_cnpm\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Appointments\Delete.cshtml.g.cs
+C:\Users\DELL\Desktop\New folder\doan_cnpm\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\DELL\Desktop\New folder\doan_cnpm\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\AddAdminUser.cshtml.g.cs
+C:\Users\DELL\Desktop\Nhom 26_NgoVanHAi_17110292 VyChiHoa_17110407\17110292_NgoVanHai 17110407_VyChiHoa\obj\Debug\netcoreapp2.1\doan_cnpm.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\Nhom 26_NgoVanHAi_17110292 VyChiHoa_17110407\17110292_NgoVanHai 17110407_VyChiHoa\obj\Debug\netcoreapp2.1\doan_cnpm.RazorAssemblyInfo.cache
+C:\Users\DELL\Desktop\Nhom 26_NgoVanHAi_17110292 VyChiHoa_17110407\17110292_NgoVanHai 17110407_VyChiHoa\obj\Debug\netcoreapp2.1\doan_cnpm.RazorAssemblyInfo.cs
+C:\Users\DELL\Desktop\Nhom 26_NgoVanHAi_17110292 VyChiHoa_17110407\17110292_NgoVanHai 17110407_VyChiHoa\obj\Debug\netcoreapp2.1\doan_cnpm.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Nhom 26_NgoVanHAi_17110292 VyChiHoa_17110407\17110292_NgoVanHai 17110407_VyChiHoa\obj\Debug\netcoreapp2.1\doan_cnpm.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Nhom 26_NgoVanHAi_17110292 VyChiHoa_17110407\17110292_NgoVanHai 17110407_VyChiHoa\obj\Debug\netcoreapp2.1\doan_cnpm.dll
+C:\Users\DELL\Desktop\Nhom 26_NgoVanHAi_17110292 VyChiHoa_17110407\17110292_NgoVanHai 17110407_VyChiHoa\obj\Debug\netcoreapp2.1\doan_cnpm.pdb
+C:\Users\DELL\Desktop\Nhom 26_NgoVanHAi_17110292 VyChiHoa_17110407\17110292_NgoVanHai 17110407_VyChiHoa\obj\Debug\netcoreapp2.1\doan_cnpm.TagHelpers.input.cache
+C:\Users\DELL\Desktop\Nhom 26_NgoVanHAi_17110292 VyChiHoa_17110407\17110292_NgoVanHai 17110407_VyChiHoa\obj\Debug\netcoreapp2.1\doan_cnpm.TagHelpers.output.cache
+C:\Users\DELL\Desktop\Nhom 26_NgoVanHAi_17110292 VyChiHoa_17110407\17110292_NgoVanHai 17110407_VyChiHoa\obj\Debug\netcoreapp2.1\doan_cnpm.RazorCoreGenerate.cache
+C:\Users\DELL\Desktop\Nhom 26_NgoVanHAi_17110292 VyChiHoa_17110407\17110292_NgoVanHai 17110407_VyChiHoa\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\AdminUsers\Delete.cshtml.g.cs
+C:\Users\DELL\Desktop\Nhom 26_NgoVanHAi_17110292 VyChiHoa_17110407\17110292_NgoVanHai 17110407_VyChiHoa\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\AdminUsers\Edit.cshtml.g.cs
+C:\Users\DELL\Desktop\Nhom 26_NgoVanHAi_17110292 VyChiHoa_17110407\17110292_NgoVanHai 17110407_VyChiHoa\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\AdminUsers\Index.cshtml.g.cs
+C:\Users\DELL\Desktop\Nhom 26_NgoVanHAi_17110292 VyChiHoa_17110407\17110292_NgoVanHai 17110407_VyChiHoa\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Appointments\Delete.cshtml.g.cs
+C:\Users\DELL\Desktop\Nhom 26_NgoVanHAi_17110292 VyChiHoa_17110407\17110292_NgoVanHai 17110407_VyChiHoa\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Appointments\Details.cshtml.g.cs
+C:\Users\DELL\Desktop\Nhom 26_NgoVanHAi_17110292 VyChiHoa_17110407\17110292_NgoVanHai 17110407_VyChiHoa\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Appointments\Edit.cshtml.g.cs
+C:\Users\DELL\Desktop\Nhom 26_NgoVanHAi_17110292 VyChiHoa_17110407\17110292_NgoVanHai 17110407_VyChiHoa\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Appointments\Index.cshtml.g.cs
+C:\Users\DELL\Desktop\Nhom 26_NgoVanHAi_17110292 VyChiHoa_17110407\17110292_NgoVanHai 17110407_VyChiHoa\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
+C:\Users\DELL\Desktop\Nhom 26_NgoVanHAi_17110292 VyChiHoa_17110407\17110292_NgoVanHai 17110407_VyChiHoa\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ProductType\Create.cshtml.g.cs
+C:\Users\DELL\Desktop\Nhom 26_NgoVanHAi_17110292 VyChiHoa_17110407\17110292_NgoVanHai 17110407_VyChiHoa\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ProductType\Delete.cshtml.g.cs
+C:\Users\DELL\Desktop\Nhom 26_NgoVanHAi_17110292 VyChiHoa_17110407\17110292_NgoVanHai 17110407_VyChiHoa\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ProductType\Details.cshtml.g.cs
+C:\Users\DELL\Desktop\Nhom 26_NgoVanHAi_17110292 VyChiHoa_17110407\17110292_NgoVanHai 17110407_VyChiHoa\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ProductType\Edit.cshtml.g.cs
+C:\Users\DELL\Desktop\Nhom 26_NgoVanHAi_17110292 VyChiHoa_17110407\17110292_NgoVanHai 17110407_VyChiHoa\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\ProductType\Index.cshtml.g.cs
+C:\Users\DELL\Desktop\Nhom 26_NgoVanHAi_17110292 VyChiHoa_17110407\17110292_NgoVanHai 17110407_VyChiHoa\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Product\Create.cshtml.g.cs
+C:\Users\DELL\Desktop\Nhom 26_NgoVanHAi_17110292 VyChiHoa_17110407\17110292_NgoVanHai 17110407_VyChiHoa\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Product\Delete.cshtml.g.cs
+C:\Users\DELL\Desktop\Nhom 26_NgoVanHAi_17110292 VyChiHoa_17110407\17110292_NgoVanHai 17110407_VyChiHoa\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Product\Details.cshtml.g.cs
+C:\Users\DELL\Desktop\Nhom 26_NgoVanHAi_17110292 VyChiHoa_17110407\17110292_NgoVanHai 17110407_VyChiHoa\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Product\Edit.cshtml.g.cs
+C:\Users\DELL\Desktop\Nhom 26_NgoVanHAi_17110292 VyChiHoa_17110407\17110292_NgoVanHai 17110407_VyChiHoa\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Product\Index.cshtml.g.cs
+C:\Users\DELL\Desktop\Nhom 26_NgoVanHAi_17110292 VyChiHoa_17110407\17110292_NgoVanHai 17110407_VyChiHoa\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\DELL\Desktop\Nhom 26_NgoVanHAi_17110292 VyChiHoa_17110407\17110292_NgoVanHai 17110407_VyChiHoa\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Shared\_productDetails.cshtml.g.cs
+C:\Users\DELL\Desktop\Nhom 26_NgoVanHAi_17110292 VyChiHoa_17110407\17110292_NgoVanHai 17110407_VyChiHoa\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+C:\Users\DELL\Desktop\Nhom 26_NgoVanHAi_17110292 VyChiHoa_17110407\17110292_NgoVanHai 17110407_VyChiHoa\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+C:\Users\DELL\Desktop\Nhom 26_NgoVanHAi_17110292 VyChiHoa_17110407\17110292_NgoVanHai 17110407_VyChiHoa\obj\Debug\netcoreapp2.1\Razor\Areas\Customer\Views\HomePages\Index.cshtml.g.cs
+C:\Users\DELL\Desktop\Nhom 26_NgoVanHAi_17110292 VyChiHoa_17110407\17110292_NgoVanHai 17110407_VyChiHoa\obj\Debug\netcoreapp2.1\Razor\Areas\Customer\Views\Shared\_AppointmentCustomerDetails.cshtml.g.cs
+C:\Users\DELL\Desktop\Nhom 26_NgoVanHAi_17110292 VyChiHoa_17110407\17110292_NgoVanHai 17110407_VyChiHoa\obj\Debug\netcoreapp2.1\Razor\Areas\Customer\Views\Shared\_AppointmentProductDetails.cshtml.g.cs
+C:\Users\DELL\Desktop\Nhom 26_NgoVanHAi_17110292 VyChiHoa_17110407\17110292_NgoVanHai 17110407_VyChiHoa\obj\Debug\netcoreapp2.1\Razor\Areas\Customer\Views\Shared\_LayoutHomePage.cshtml.g.cs
+C:\Users\DELL\Desktop\Nhom 26_NgoVanHAi_17110292 VyChiHoa_17110407\17110292_NgoVanHai 17110407_VyChiHoa\obj\Debug\netcoreapp2.1\Razor\Areas\Customer\Views\ShoppingCart\AppointmentConfirmation.cshtml.g.cs
+C:\Users\DELL\Desktop\Nhom 26_NgoVanHAi_17110292 VyChiHoa_17110407\17110292_NgoVanHai 17110407_VyChiHoa\obj\Debug\netcoreapp2.1\Razor\Areas\Customer\Views\ShoppingCart\Index.cshtml.g.cs
+C:\Users\DELL\Desktop\Nhom 26_NgoVanHAi_17110292 VyChiHoa_17110407\17110292_NgoVanHai 17110407_VyChiHoa\obj\Debug\netcoreapp2.1\Razor\Areas\Customer\Views\Shop\Details.cshtml.g.cs
+C:\Users\DELL\Desktop\Nhom 26_NgoVanHAi_17110292 VyChiHoa_17110407\17110292_NgoVanHai 17110407_VyChiHoa\obj\Debug\netcoreapp2.1\Razor\Areas\Customer\Views\Shop\Index.cshtml.g.cs
+C:\Users\DELL\Desktop\Nhom 26_NgoVanHAi_17110292 VyChiHoa_17110407\17110292_NgoVanHai 17110407_VyChiHoa\obj\Debug\netcoreapp2.1\Razor\Areas\Customer\Views\_ViewImports.cshtml.g.cs
+C:\Users\DELL\Desktop\Nhom 26_NgoVanHAi_17110292 VyChiHoa_17110407\17110292_NgoVanHai 17110407_VyChiHoa\obj\Debug\netcoreapp2.1\Razor\Areas\Customer\Views\_ViewStart.cshtml.g.cs
+C:\Users\DELL\Desktop\Nhom 26_NgoVanHAi_17110292 VyChiHoa_17110407\17110292_NgoVanHai 17110407_VyChiHoa\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+C:\Users\DELL\Desktop\Nhom 26_NgoVanHAi_17110292 VyChiHoa_17110407\17110292_NgoVanHai 17110407_VyChiHoa\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\AddAdminUser.cshtml.g.cs
+C:\Users\DELL\Desktop\Nhom 26_NgoVanHAi_17110292 VyChiHoa_17110407\17110292_NgoVanHai 17110407_VyChiHoa\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+C:\Users\DELL\Desktop\Nhom 26_NgoVanHAi_17110292 VyChiHoa_17110407\17110292_NgoVanHai 17110407_VyChiHoa\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+C:\Users\DELL\Desktop\Nhom 26_NgoVanHAi_17110292 VyChiHoa_17110407\17110292_NgoVanHai 17110407_VyChiHoa\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+C:\Users\DELL\Desktop\Nhom 26_NgoVanHAi_17110292 VyChiHoa_17110407\17110292_NgoVanHai 17110407_VyChiHoa\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+C:\Users\DELL\Desktop\Nhom 26_NgoVanHAi_17110292 VyChiHoa_17110407\17110292_NgoVanHai 17110407_VyChiHoa\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+C:\Users\DELL\Desktop\Nhom 26_NgoVanHAi_17110292 VyChiHoa_17110407\17110292_NgoVanHai 17110407_VyChiHoa\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\DELL\Desktop\Nhom 26_NgoVanHAi_17110292 VyChiHoa_17110407\17110292_NgoVanHai 17110407_VyChiHoa\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+C:\Users\DELL\Desktop\Nhom 26_NgoVanHAi_17110292 VyChiHoa_17110407\17110292_NgoVanHai 17110407_VyChiHoa\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+C:\Users\DELL\Desktop\Nhom 26_NgoVanHAi_17110292 VyChiHoa_17110407\17110292_NgoVanHai 17110407_VyChiHoa\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Users\DELL\Desktop\Nhom 26_NgoVanHAi_17110292 VyChiHoa_17110407\17110292_NgoVanHai 17110407_VyChiHoa\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+C:\Users\DELL\Desktop\Nhom 26_NgoVanHAi_17110292 VyChiHoa_17110407\17110292_NgoVanHai 17110407_VyChiHoa\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+C:\Users\DELL\Desktop\Nhom 26_NgoVanHAi_17110292 VyChiHoa_17110407\17110292_NgoVanHai 17110407_VyChiHoa\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+C:\Users\DELL\Desktop\Nhom 26_NgoVanHAi_17110292 VyChiHoa_17110407\17110292_NgoVanHai 17110407_VyChiHoa\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+C:\Users\DELL\Desktop\Nhom 26_NgoVanHAi_17110292 VyChiHoa_17110407\17110292_NgoVanHai 17110407_VyChiHoa\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+C:\Users\DELL\Desktop\Nhom 26_NgoVanHAi_17110292 VyChiHoa_17110407\17110292_NgoVanHai 17110407_VyChiHoa\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+C:\Users\DELL\Desktop\Nhom 26_NgoVanHAi_17110292 VyChiHoa_17110407\17110292_NgoVanHai 17110407_VyChiHoa\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+C:\Users\DELL\Desktop\Nhom 26_NgoVanHAi_17110292 VyChiHoa_17110407\17110292_NgoVanHai 17110407_VyChiHoa\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+C:\Users\DELL\Desktop\Nhom 26_NgoVanHAi_17110292 VyChiHoa_17110407\17110292_NgoVanHai 17110407_VyChiHoa\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+C:\Users\DELL\Desktop\Nhom 26_NgoVanHAi_17110292 VyChiHoa_17110407\17110292_NgoVanHai 17110407_VyChiHoa\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+C:\Users\DELL\Desktop\Nhom 26_NgoVanHAi_17110292 VyChiHoa_17110407\17110292_NgoVanHai 17110407_VyChiHoa\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+C:\Users\DELL\Desktop\Nhom 26_NgoVanHAi_17110292 VyChiHoa_17110407\17110292_NgoVanHai 17110407_VyChiHoa\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+C:\Users\DELL\Desktop\Nhom 26_NgoVanHAi_17110292 VyChiHoa_17110407\17110292_NgoVanHai 17110407_VyChiHoa\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+C:\Users\DELL\Desktop\Nhom 26_NgoVanHAi_17110292 VyChiHoa_17110407\17110292_NgoVanHai 17110407_VyChiHoa\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+C:\Users\DELL\Desktop\Nhom 26_NgoVanHAi_17110292 VyChiHoa_17110407\17110292_NgoVanHai 17110407_VyChiHoa\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+C:\Users\DELL\Desktop\Nhom 26_NgoVanHAi_17110292 VyChiHoa_17110407\17110292_NgoVanHai 17110407_VyChiHoa\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+C:\Users\DELL\Desktop\Nhom 26_NgoVanHAi_17110292 VyChiHoa_17110407\17110292_NgoVanHai 17110407_VyChiHoa\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\DELL\Desktop\Nhom 26_NgoVanHAi_17110292 VyChiHoa_17110407\17110292_NgoVanHai 17110407_VyChiHoa\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+C:\Users\DELL\Desktop\Nhom 26_NgoVanHAi_17110292 VyChiHoa_17110407\17110292_NgoVanHai 17110407_VyChiHoa\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+C:\Users\DELL\Desktop\Nhom 26_NgoVanHAi_17110292 VyChiHoa_17110407\17110292_NgoVanHai 17110407_VyChiHoa\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\DELL\Desktop\Nhom 26_NgoVanHAi_17110292 VyChiHoa_17110407\17110292_NgoVanHai 17110407_VyChiHoa\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+C:\Users\DELL\Desktop\Nhom 26_NgoVanHAi_17110292 VyChiHoa_17110407\17110292_NgoVanHai 17110407_VyChiHoa\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\DELL\Desktop\Nhom 26_NgoVanHAi_17110292 VyChiHoa_17110407\17110292_NgoVanHai 17110407_VyChiHoa\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\DELL\Desktop\Nhom 26_NgoVanHAi_17110292 VyChiHoa_17110407\17110292_NgoVanHai 17110407_VyChiHoa\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\DELL\Desktop\Nhom 26_NgoVanHAi_17110292 VyChiHoa_17110407\17110292_NgoVanHai 17110407_VyChiHoa\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\UserName\Default.cshtml.g.cs
+C:\Users\DELL\Desktop\Nhom 26_NgoVanHAi_17110292 VyChiHoa_17110407\17110292_NgoVanHai 17110407_VyChiHoa\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\DELL\Desktop\Nhom 26_NgoVanHAi_17110292 VyChiHoa_17110407\17110292_NgoVanHai 17110407_VyChiHoa\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\DELL\Desktop\Nhom 26_NgoVanHAi_17110292 VyChiHoa_17110407\17110292_NgoVanHai 17110407_VyChiHoa\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\DELL\Desktop\Nhom 26_NgoVanHAi_17110292 VyChiHoa_17110407\17110292_NgoVanHai 17110407_VyChiHoa\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\DELL\Desktop\Nhom 26_NgoVanHAi_17110292 VyChiHoa_17110407\17110292_NgoVanHai 17110407_VyChiHoa\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_TableButtonPartial.cshtml.g.cs
+C:\Users\DELL\Desktop\Nhom 26_NgoVanHAi_17110292 VyChiHoa_17110407\17110292_NgoVanHai 17110407_VyChiHoa\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\DELL\Desktop\Nhom 26_NgoVanHAi_17110292 VyChiHoa_17110407\17110292_NgoVanHai 17110407_VyChiHoa\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\DELL\Desktop\Nhom 26_NgoVanHAi_17110292 VyChiHoa_17110407\17110292_NgoVanHai 17110407_VyChiHoa\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\DELL\Desktop\Nhom 26_NgoVanHAi_17110292 VyChiHoa_17110407\17110292_NgoVanHai 17110407_VyChiHoa\obj\Debug\netcoreapp2.1\doan_cnpm.RazorTargetAssemblyInfo.cache
+C:\Users\DELL\Desktop\Nhom 26_NgoVanHAi_17110292 VyChiHoa_17110407\17110292_NgoVanHai 17110407_VyChiHoa\obj\Debug\netcoreapp2.1\doan_cnpm.RazorTargetAssemblyInfo.cs
+C:\Users\DELL\Desktop\Nhom 26_NgoVanHAi_17110292 VyChiHoa_17110407\17110292_NgoVanHai 17110407_VyChiHoa\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\DELL\Desktop\Nhom 26_NgoVanHAi_17110292 VyChiHoa_17110407\17110292_NgoVanHai 17110407_VyChiHoa\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\DELL\Desktop\Nhom 26_NgoVanHAi_17110292 VyChiHoa_17110407\17110292_NgoVanHai 17110407_VyChiHoa\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\DELL\Desktop\Nhom 26_NgoVanHAi_17110292 VyChiHoa_17110407\17110292_NgoVanHai 17110407_VyChiHoa\bin\Debug\netcoreapp2.1\doan_cnpm.deps.json
+C:\Users\DELL\Desktop\Nhom 26_NgoVanHAi_17110292 VyChiHoa_17110407\17110292_NgoVanHai 17110407_VyChiHoa\bin\Debug\netcoreapp2.1\doan_cnpm.runtimeconfig.json
+C:\Users\DELL\Desktop\Nhom 26_NgoVanHAi_17110292 VyChiHoa_17110407\17110292_NgoVanHai 17110407_VyChiHoa\bin\Debug\netcoreapp2.1\doan_cnpm.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\Nhom 26_NgoVanHAi_17110292 VyChiHoa_17110407\17110292_NgoVanHai 17110407_VyChiHoa\bin\Debug\netcoreapp2.1\doan_cnpm.dll
+C:\Users\DELL\Desktop\Nhom 26_NgoVanHAi_17110292 VyChiHoa_17110407\17110292_NgoVanHai 17110407_VyChiHoa\bin\Debug\netcoreapp2.1\doan_cnpm.pdb
+C:\Users\DELL\Desktop\Nhom 26_NgoVanHAi_17110292 VyChiHoa_17110407\17110292_NgoVanHai 17110407_VyChiHoa\bin\Debug\netcoreapp2.1\doan_cnpm.Views.dll
+C:\Users\DELL\Desktop\Nhom 26_NgoVanHAi_17110292 VyChiHoa_17110407\17110292_NgoVanHai 17110407_VyChiHoa\bin\Debug\netcoreapp2.1\doan_cnpm.Views.pdb
+C:\Users\DELL\Desktop\Nhom 26_NgoVanHAi_17110292 VyChiHoa_17110407\17110292_NgoVanHai 17110407_VyChiHoa\obj\Debug\netcoreapp2.1\doan_cnpm.Views.pdb
+C:\Users\DELL\Desktop\Nhom 26_NgoVanHAi_17110292 VyChiHoa_17110407\17110292_NgoVanHai 17110407_VyChiHoa\obj\Debug\netcoreapp2.1\doan_cnpm.csproj.CopyComplete
+C:\Users\DELL\Desktop\Nhom 26_NgoVanHAi_17110292 VyChiHoa_17110407\17110292_NgoVanHai 17110407_VyChiHoa\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\AdminUsers\CustomerIndex.cshtml.g.cs
+C:\Users\DELL\Desktop\Nhom 26_NgoVanHAi_17110292 VyChiHoa_17110407\17110292_NgoVanHai 17110407_VyChiHoa\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Product\updatePrice.cshtml.g.cs
+C:\Users\DELL\Desktop\Nhom 26_NgoVanHAi_17110292 VyChiHoa_17110407\17110292_NgoVanHai 17110407_VyChiHoa\obj\Debug\netcoreapp2.1\Razor\Areas\Customer\Views\Contact\Index.cshtml.g.cs
+C:\Users\DELL\Desktop\Nhom 26_NgoVanHAi_17110292 VyChiHoa_17110407\17110292_NgoVanHai 17110407_VyChiHoa\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
